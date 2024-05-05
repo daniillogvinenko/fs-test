@@ -2,8 +2,6 @@
     "profiles": [{ "id": 1, "name": "Vladimir" }],
     "tests": [
         { "id": 1, "message": "test1" },
-        { "id": 2, "message": "test2" },
-        { "id": 3, "message": "test3" },
-        { "id": 3, "message": "test3" }
+        { "id": 2, "message": "test2" }
     ]
 }
